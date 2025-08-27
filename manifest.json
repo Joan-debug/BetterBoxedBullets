@@ -1,0 +1,11 @@
+{
+    "name": "BetterBoxedBullets",
+    "version_number": "0.1.1",
+    "website_url": "https://github.com/Joan-debug/BetterBoxedBullets",
+    "description": "Adds generally compatible card. Credit to Koala for their Boxed Bullets card.",
+    "dependencies": [
+		"willis81808-UnboundLib-3.2.14",
+		"willis81808-ModsPlus-1.6.2",
+		"BepInEx-BepInExPack_ROUNDS-5.4.1901"
+    ]
+}
