@@ -1,8 +1,8 @@
 {
     "name": "BetterBoxedBullets",
-    "version_number": "0.1.1",
+    "version_number": "0.2.0",
     "website_url": "https://github.com/Joan-debug/BetterBoxedBullets",
-    "description": "Adds generally compatible card. Credit to Koala for their Boxed Bullets card.",
+    "description": "Adds generally compatible card. Credit to AncientKoala for their Boxed Bullets card.",
     "dependencies": [
 		"willis81808-UnboundLib-3.2.14",
 		"willis81808-ModsPlus-1.6.2",
